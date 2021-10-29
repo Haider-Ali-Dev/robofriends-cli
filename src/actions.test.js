@@ -24,3 +24,4 @@ describe("Fetch robots action PENDING", () => {
     expect(action[0]).toEqual({type: "REQUEST_ROBOTS_PENDING"});
   });
 });
+// sos
